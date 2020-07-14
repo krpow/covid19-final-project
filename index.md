@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Check out the [blog](kristinepau.com).
+Check out the [blog](https://www.kristinepau.com).
 
 ### Jekyll Themes
 
