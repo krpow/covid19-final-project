@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi! This is Kristine, welcome to my portfolio:)
 
 You can use the [editor on GitHub](https://github.com/krpow/kristinepau.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
