@@ -1,6 +1,6 @@
 ## Hi! This is Kristine, welcome to my portfolio:)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a senior at UC Berkeley studying Economics and Data Science.
 
 ### Markdown
 
